@@ -1,0 +1,2 @@
+# TempOwner
+aternos afk bot
